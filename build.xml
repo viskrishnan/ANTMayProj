@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<project name="ANTJulyProj" basedir="." default="run">
+<project name="ANTMayProj" basedir="." default="run">
 
 	<!-- 'init' target for Initializing Variables -->
 	<target name="init">
